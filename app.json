@@ -6,7 +6,7 @@
     "repository": "https://github.com/GetStream/ionic-chat-tutorial-react-api",
     "success_url": "https://getstream.io/chat/",
     "keywords": ["stream", "chat", "api", "express"],
-    "addons": ["stream:chat-trial"],
+    "addons": [],
     "env": {
         "NODE_ENV": {
             "description": "Sets the node environment to production.",
